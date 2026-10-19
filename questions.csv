@@ -1,0 +1,16 @@
+question,opt1,opt2,opt3,opt4,answer
+"請問在 p5.js 中，用來設定畫布大小的指令是？","createCanvas()","background()","sizeCanvas()","windowSize()",0
+"要在畫布背景填入顏色，應使用下列哪個指令？","color()","background()","fill()","stroke()",1
+"下列哪個指令用來設定圖形內部的填滿顏色？","color()","stroke()","fill()","rect()",2
+"要在畫布上繪製一個長方形，應使用哪個指令？","circle()","ellipse()","rect()","line()",2
+"p5.js 中會不斷重複執行（繪製動畫）的函式名稱是？","setup()","draw()","loop()","init()",1
+"請問用來在畫布上畫一個圓形的指令是？","circle()","rect()","line()","point()",0
+"下列何者不是 p5.js 的滑鼠互動變數？","mouseX","mouseY","mouseIsPressed","mouseClickedSpeed",3
+"請問用來設定圖形邊框外框顏色的指令是？","stroke()","fill()","color()","background()",0
+"如果要設定圖形外框的粗細，應使用下列哪個指令？","weight()","strokeWeight()","lineWidth()","borderSize()",1
+"請問下列哪個指令可以讓畫布不隨便重複執行 draw() 迴圈？","stop()","halt()","noLoop()","pause()",2
+"當滑鼠被按下時，p5.js 會自動觸發下列哪一個事件函式？","mousePressed()","mouseClick()","onMousePress()","clickMouse()",0
+"請問在 p5.js 中，用來繪製一條線段的指令是？","line()","stroke()","draw()","segment()",0
+"下列哪一個函式只會在程式執行一開始時執行一次？","draw()","setup()","init()","begin()",1
+"請問用來在畫布上顯示文字的指令是？","print()","drawText()","text()","show()",2
+"如果要關閉圖形的外框線，應使用下列哪個指令？","noStroke()","borderOff()","strokeNone()","disableStroke()",0
